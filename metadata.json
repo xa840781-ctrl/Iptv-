@@ -1,0 +1,6 @@
+{
+  "name": "AeroStream 3D",
+  "description": "AeroStream IPTV 3D - Platformë premium IPTV me mbështetje për M3U8, Xtream Codes dhe Stalker Portal, me vizualizime spektakolare 3D dhe plane pajtimi shumë-llogarish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
